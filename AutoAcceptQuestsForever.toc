@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: AutoAcceptQuestsForever
+## IconTexture: Interface\GossipFrame\AvailableQuestIcon
+## Notes: Automatically accepts quests from NPCs
+## Author: Zolo
+## Version: 1.0.0
+## SavedVariables: AutoAcceptQuestsForeverDB
+
+Core.lua
